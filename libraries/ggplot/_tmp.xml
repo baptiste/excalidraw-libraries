@@ -1,0 +1,161 @@
+	<shape type="sphere">
+	<point name="center" x="63.0171311684991" y="-1.17021276595744" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Au"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="59.1050882127333" y="-1.17021276595744" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Au"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="67.6195346458706" y="4.57446808510638" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="53.8890309383789" y="0.106382978723396" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Au"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="50.4372283303503" y="-8.51063829787234" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="50.1304014318589" y="-10.4255319148936" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Au"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="48.442853490156" y="-22.5531914893617" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="54.2725645614932" y="9.68085106382978" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="54.8862183584761" y="4.57446808510638" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="50.4372283303503" y="-6.91489361702128" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Au"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="50.4372283303503" y="-11.3829787234043" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Au"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="40.7721810278701" y="-15.8510638297872" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="45.9882383022245" y="-12.9787234042553" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="45.2211710559959" y="-19.6808510638298" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="22.6693940168755" y="-35" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="20" y="-35" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="21.2119662490412" y="-21.2765957446809" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="69.4604960368192" y="35.2127659574468" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="78.4351828176937" y="28.8297872340426" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="75.0600869342879" y="40" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="65.3950396318077" y="0.425531914893611" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="49.2099207363846" y="-18.7234042553191" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="50.5139350549732" y="-19.6808510638298" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="44.3006903605216" y="-25.7446808510638" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="44.2239836358987" y="-6.91489361702128" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="73.5259524418307" y="18.936170212766" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="70.3809767322935" y="14.7872340425532" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="80" y="28.8297872340426" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="54.5793914599847" y="-17.7659574468085" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="60.7159294298133" y="-5.31914893617022" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Au"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="48.442853490156" y="-20.3191489361702" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cr"/>
+</bsdf>
+	</shape> 	<shape type="sphere">
+	<point name="center" x="60.5625159805676" y="0.106382978723396" z="1"/> <float name="radius" value="1"/>
+<bsdf type="conductor">
+<string name="material" value="Cu"/>
+</bsdf>
+	</shape>
